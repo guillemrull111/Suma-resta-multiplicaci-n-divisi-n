@@ -1,6 +1,9 @@
 #include <iostream>
 #include <cmath>
 #include "Functions.h"
+#include "Multiplicación.h"
+#include "Division.h"
+
 int main() {
 
 	double a;
@@ -10,7 +13,7 @@ int main() {
 	std::cin >> a;
 	std::cout << "introduce num 2:" << std::endl;
 	std::cin >> b;
-	std::cout << "Que quieres hacer sumar(1) restar(2)" << std::endl;
+	std::cout << "Que quieres hacer sumar(1) restar(2) multiplicar(3) dividir(4)" << std::endl;
 	std::cin >> opcion;
 
 	switch (opcion)
@@ -20,6 +23,12 @@ int main() {
 		break;
 	case 2:
 		std::cout << resta(a, b) << std::endl;
+		break;
+	case 3:
+		std::cout << Multiplicacion(a, b) << std::endl;
+		break;
+	case 4:
+		std::cout << Division(a, b) << std::endl;
 		break;
 	default:
 		std::cout << "Opción no valida" << std::endl;

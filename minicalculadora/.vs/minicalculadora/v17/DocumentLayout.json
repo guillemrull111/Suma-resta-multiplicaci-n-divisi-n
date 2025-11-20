@@ -1,17 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\",
+  "WorkspaceRootPath": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|solutionrelative:minicalculadora\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Division.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|solutionrelative:minicalculadora\\Division.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|solutionrelative:minicalculadora\\Division.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|solutionrelative:minicalculadora\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Multiplicaci\u00F3n.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|solutionrelative:minicalculadora\\Multiplicaci\u00F3n.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Multiplicacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|solutionrelative:minicalculadora\\Multiplicacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{718451DA-B2B1-4F31-A817-FBE27BDB8C15}|minicalculadora\\minicalculadora.vcxproj|solutionrelative:minicalculadora\\Functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,15 +38,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Division.h",
+              "DocumentMoniker": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Division.h",
+              "RelativeDocumentMoniker": "minicalculadora\\Division.h",
+              "ToolTip": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Division.h",
+              "RelativeToolTip": "minicalculadora\\Division.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T09:04:37.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Division.cpp",
+              "DocumentMoniker": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Division.cpp",
+              "RelativeDocumentMoniker": "minicalculadora\\Division.cpp",
+              "ToolTip": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Division.cpp",
+              "RelativeToolTip": "minicalculadora\\Division.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T09:01:43.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Multiplicaci\u00F3n.h",
+              "DocumentMoniker": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Multiplicaci\u00F3n.h",
+              "RelativeDocumentMoniker": "minicalculadora\\Multiplicaci\u00F3n.h",
+              "ToolTip": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Multiplicaci\u00F3n.h",
+              "RelativeToolTip": "minicalculadora\\Multiplicaci\u00F3n.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-20T09:01:38.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Multiplicacion.cpp",
+              "DocumentMoniker": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Multiplicacion.cpp",
+              "RelativeDocumentMoniker": "minicalculadora\\Multiplicacion.cpp",
+              "ToolTip": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Multiplicacion.cpp",
+              "RelativeToolTip": "minicalculadora\\Multiplicacion.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T09:00:59.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Functions.cpp",
-              "DocumentMoniker": "C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\Functions.cpp",
+              "DocumentMoniker": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Functions.cpp",
               "RelativeDocumentMoniker": "minicalculadora\\Functions.cpp",
-              "ToolTip": "C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\Functions.cpp",
+              "ToolTip": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Functions.cpp",
               "RelativeToolTip": "minicalculadora\\Functions.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -39,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Functions.h",
-              "DocumentMoniker": "C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\Functions.h",
+              "DocumentMoniker": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Functions.h",
               "RelativeDocumentMoniker": "minicalculadora\\Functions.h",
-              "ToolTip": "C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\Functions.h",
+              "ToolTip": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\Functions.h",
               "RelativeToolTip": "minicalculadora\\Functions.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -54,11 +122,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\main.cpp",
               "RelativeDocumentMoniker": "minicalculadora\\main.cpp",
-              "ToolTip": "C:\\Users\\RubenAlvarezGarcia\\Documents\\Calculadora\\minicalculadora\\minicalculadora\\main.cpp",
-              "RelativeToolTip": "minicalculadora\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "ToolTip": "C:\\Users\\GuillemRullGallen\\Documents\\Suma-resta-multiplicaci-n-divisi-n\\minicalculadora\\minicalculadora\\main.cpp*",
+              "RelativeToolTip": "minicalculadora\\main.cpp*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-20T08:02:40.671Z",
               "EditorCaption": ""
